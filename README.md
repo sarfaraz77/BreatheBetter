@@ -61,8 +61,3 @@ The app displays categorized asthma management tips in an interactive and animat
 - Add unit testing
 
 ---
-
-## 👤 Author
-
-Sarfaraz Shaikh  
-Android Developer (Entry-Level)
