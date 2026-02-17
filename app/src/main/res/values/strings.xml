@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">BreatheBetter</string>
+
+    <string name="tip1_title">Box Breathing</string>
+    <string name="tip1_description">Inhale for 4 seconds, hold for 4, exhale for 4, and hold again. Helps calm airways and reduce anxiety during breathlessness.</string>
+    <string name="tip1_card_number">1</string>
+
+    <string name="tip2_title">Diaphragmatic Breathing</string>
+    <string name="tip2_description">Focus on deep belly breathing instead of shallow chest breathing to improve oxygen flow and lung efficiency.</string>
+    <string name="tip2_card_number">2</string>
+
+    <string name="tip3_title">Pursed Lip Breathing</string>
+    <string name="tip3_description">Inhale through your nose and slowly exhale through pursed lips to prevent airway collapse and ease breathing.</string>
+    <string name="tip3_card_number">3</string>
+
+    <string name="tip4_title">Steam Inhalation</string>
+    <string name="tip4_description">Warm steam helps loosen mucus and soothe irritated airways during congestion.</string>
+    <string name="tip4_card_number">4</string>
+
+    <string name="tip5_title">Correct Inhaler Use</string>
+    <string name="tip5_description">Ensure proper inhaler technique to allow medication to reach deep into the lungs effectively.</string>
+    <string name="tip5_card_number">5</string>
+
+    <string name="tip6_title">Identify Triggers</string>
+    <string name="tip6_description">Track dust, pollen, smoke, or cold air exposure to prevent unexpected asthma attacks.</string>
+    <string name="tip6_card_number">6</string>
+
+    <string name="tip7_title">Keep Rescue Plan</string>
+    <string name="tip7_description">Always have a clear action plan for sudden asthma attacks, including emergency contacts.</string>
+    <string name="tip7_card_number">7</string>
+
+    <string name="tip8_title">Stay Hydrated</string>
+    <string name="tip8_description">Drinking enough water keeps mucus thin and easier to clear from the airways.</string>
+    <string name="tip8_card_number">8</string>
+
+    <string name="tip9_title">Anti-Inflammatory Diet</string>
+    <string name="tip9_description">Include omega-3 rich foods and fresh vegetables to reduce airway inflammation naturally.</string>
+    <string name="tip9_card_number">9</string>
+
+    <string name="tip10_title">Gentle Yoga</string>
+    <string name="tip10_description">Light stretching and chest-opening poses improve lung expansion and breathing control.</string>
+    <string name="tip10_card_number">10</string>
+
+    <string name="tip11_title">Alternate Nostril</string>
+    <string name="tip11_description">Balances breathing rhythm and reduces stress that may trigger symptoms.</string>
+    <string name="tip11_card_number">11</string>
+
+    <string name="tip12_title">Stress Management</string>
+    <string name="tip12_description">Practice meditation or calming routines to reduce stress-induced asthma flare-ups.</string>
+    <string name="tip12_card_number">12</string>
+
+    <string name="tip13_title">Peak Flow Monitoring</string>
+    <string name="tip13_description">Track lung performance daily to detect early warning signs of worsening asthma.</string>
+    <string name="tip13_card_number">13</string>
+
+    <string name="tip14_title">Air Purifier Use</string>
+    <string name="tip14_description">Clean indoor air reduces exposure to allergens and dust particles.</string>
+    <string name="tip14_card_number">14</string>
+
+    <string name="tip15_title">Sleep Hygiene</string>
+    <string name="tip15_description">Maintain regular sleep patterns to support immune and respiratory health.</string>
+    <string name="tip15_card_number">15</string>
+
+    <string name="tip16_title">Warm Water Sips</string>
+    <string name="tip16_description">Warm fluids soothe the throat and help relax tightened airways.</string>
+    <string name="tip16_card_number">16</string>
+
+    <string name="tip17_title">Chest Stretches</string>
+    <string name="tip17_description">Gentle chest expansion exercises increase lung capacity over time.</string>
+    <string name="tip17_card_number">17</string>
+
+    <string name="tip18_title">Cold Air Protection</string>
+    <string name="tip18_description">Cover your nose and mouth in cold weather to prevent airway irritation.</string>
+    <string name="tip18_card_number">18</string>
+
+    <string name="tip19_title">Medication Routine</string>
+    <string name="tip19_description">Take prescribed maintenance medication consistently, even when symptoms improve.</string>
+    <string name="tip19_card_number">19</string>
+
+    <string name="tip20_title">Calm During Attack</string>
+    <string name="tip20_description">Stay seated upright, focus on slow breathing, and follow your rescue action plan.</string>
+    <string name="tip20_card_number">20</string>
+
+</resources>
